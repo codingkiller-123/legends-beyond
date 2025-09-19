@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌍 Legends Beyond
 
-# Run and deploy your AI Studio app
+**Legends Beyond** is a next-generation open-world **adventure game** that combines realism, fantasy, and cutting-edge AI. Designed to be globally appealing, the game offers immersive storytelling, adaptive NPCs, and endless exploration across diverse worlds.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1nF3EJodhh5uwCXDh7ayjf9EL-y9Kwpjj
+## ✨ Features
+- 🗺️ **Open World Realism** – Dynamic weather, day-night cycle, and realistic physics.  
+- 📖 **Immersive Storytelling** – Branching narrative with permanent choices.  
+- 🤖 **Advanced AI** – NPCs and companions powered by adaptive intelligence.  
+- ⚔️ **Deep Gameplay** – Combat, stealth, crafting, survival, trading, and diplomacy.  
+- 🌐 **Global Appeal** – Quests inspired by myths and cultures from around the world.  
+- 🎮 **Next-Gen Tech** – VR/AR support, cross-platform play, and AI-generated quests.  
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 Installation
+```bash
+# Clone this repository
+git clone https://github.com/your-username/legends-beyond.git
 
+# Navigate into project folder
+cd legends-beyond
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Install dependencies
+npm install   # (or pip install -r requirements.txt if Python based)
+
+# Run the game
+npm start     # (or python main.py / Unity start etc.)
